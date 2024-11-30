@@ -2,3 +2,8 @@ header {
     background-color: aquamarine;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#lorem{
+    background-color: bisque;
+    font-style: oblique;
+}
